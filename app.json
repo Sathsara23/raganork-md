@@ -31,7 +31,7 @@
        "HEROKU_API_KEY": {
             "description": "For updating bot and setting vars remotely",
             "required": true,
-            "value":""
+            "value":"d6a9bfd6-a5e3-4b92-8754-c71003b04cbb"
         },
         "HEROKU_APP_NAME": {
             "description": "Exact name which you gave at the top",
@@ -71,7 +71,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"94712862246"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
@@ -79,7 +79,7 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Your MD session",
+            "description": "Raganork~02ec50dd9a0ea74102aaad93f8391eda:6937696f767548553236413d",
             "required": true
              
         }
